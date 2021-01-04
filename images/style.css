@@ -1,0 +1,18 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-self{
+    color:rgb(231, 176, 24);
+}
+.half-width{
+    width:40%;
+    Float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
